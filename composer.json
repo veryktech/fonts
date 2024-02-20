@@ -1,10 +1,10 @@
 {
-    "name": "avzer/assets",
+    "name": "avzer/fonts",
     "type": "library",
-    "homepage": "https://github.com/avzer/assets",
+    "homepage": "https://github.com/avzer/fonts",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/avzer/assets/issues"
+        "issues": "https://github.com/avzer/fonts/issues"
     },
     "authors": [
         {
