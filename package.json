@@ -1,0 +1,10 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/avzer/assets.git"
+  },
+  "homepage": "https://github.com/avzer/assets",
+  "license": "MIT"
+}

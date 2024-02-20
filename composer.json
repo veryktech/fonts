@@ -1,0 +1,17 @@
+{
+    "name": "avzer/assets",
+    "type": "library",
+    "homepage": "https://github.com/avzer/assets",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/avzer/assets/issues"
+    },
+    "authors": [
+        {
+            "name": "Wei",
+            "email": "ghostwei@gmail.com",
+            "homepage": "https://github.com/avzer",
+            "role": "Developer"
+        }
+    ]
+}
