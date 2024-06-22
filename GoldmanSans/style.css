@@ -12,11 +12,3 @@
 	font-family: Goldman-Sans-Bold;
 	src: url(GoldmanSans_W_Bd.woff2) format("woff2");
 }
-
-.az-widget-ip,
-.az-widget-bitsize,
-.az-widget-price,
-.az-widget-phone {
-	font-family: Goldman-Sans;
-}
-
