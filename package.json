@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/avzer/fonts.git"
+    "url": "git://github.com/veryktech/fonts.git"
   },
-  "homepage": "https://github.com/avzer/fonts",
+  "homepage": "https://github.com/veryktech/fonts",
   "license": "MIT"
 }
