@@ -1,7 +1,7 @@
 {
-    "name": "avzer/fonts",
+    "name": "veryktech/fonts",
     "type": "library",
-    "homepage": "https://github.com/avzer/fonts",
+    "homepage": "https://github.com/veryktech/fonts",
     "license": "MIT",
     "support": {
         "issues": "https://github.com/avzer/fonts/issues"
